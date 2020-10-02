@@ -144,3 +144,31 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+*{border:solid black 3px;}
+.topcontainer{
+    display:flex;
+}
+
+.bigimgc{
+    display:flex;
+    justify-content:center;
+}
+
+.topcontainer{
+    display:flex;
+    justify-content:space-between;
+    width:800px;
+    margin:auto;
+    margin-bottom:45px;
+    margin-top:45px;
+    align-items:baseline;
+}
+
+
+.topcontainer a{
+    text-decoration:none;
+    color:black;
+    font-family: 'Rubik', sans-serif;
+     
+}
