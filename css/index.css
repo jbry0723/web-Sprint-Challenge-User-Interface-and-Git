@@ -153,6 +153,7 @@ footer nav a {
 .bigimgc{
     display:flex;
     justify-content:center;
+    margin-bottom:25px;
 }
 
 .topcontainer{
@@ -236,13 +237,16 @@ footer nav a {
 
 .imgbox2{
     display:flex;
-    border-bottom: dotted grey;
+    
     
 }
 
 .placesbox{
     display:block;
+    
 }
+
+
 
 .boxheader{
     font-weight:bold;
@@ -261,4 +265,16 @@ footer nav a {
 
 .letswork{
     margin: 50px 0px;
+}
+
+.learncontainerl{
+    border-bottom: dotted grey;
+    margin-right: 30px;}
+
+.learncontainerr{
+    border-bottom: dotted grey;
+}
+
+.imgbox2 {
+    margin-top:60px;
 }
